@@ -1,0 +1,15 @@
+C:\Users\shane\source\repos\Randum Number Guesser 2\Randum Number Guesser 2\bin\Debug\net6.0\Randum Number Guesser 2.exe
+C:\Users\shane\source\repos\Randum Number Guesser 2\Randum Number Guesser 2\bin\Debug\net6.0\Randum Number Guesser 2.deps.json
+C:\Users\shane\source\repos\Randum Number Guesser 2\Randum Number Guesser 2\bin\Debug\net6.0\Randum Number Guesser 2.runtimeconfig.json
+C:\Users\shane\source\repos\Randum Number Guesser 2\Randum Number Guesser 2\bin\Debug\net6.0\Randum Number Guesser 2.dll
+C:\Users\shane\source\repos\Randum Number Guesser 2\Randum Number Guesser 2\bin\Debug\net6.0\Randum Number Guesser 2.pdb
+C:\Users\shane\source\repos\Randum Number Guesser 2\Randum Number Guesser 2\obj\Debug\net6.0\Randum Number Guesser 2.csproj.AssemblyReference.cache
+C:\Users\shane\source\repos\Randum Number Guesser 2\Randum Number Guesser 2\obj\Debug\net6.0\Randum Number Guesser 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shane\source\repos\Randum Number Guesser 2\Randum Number Guesser 2\obj\Debug\net6.0\Randum Number Guesser 2.AssemblyInfoInputs.cache
+C:\Users\shane\source\repos\Randum Number Guesser 2\Randum Number Guesser 2\obj\Debug\net6.0\Randum Number Guesser 2.AssemblyInfo.cs
+C:\Users\shane\source\repos\Randum Number Guesser 2\Randum Number Guesser 2\obj\Debug\net6.0\Randum Number Guesser 2.csproj.CoreCompileInputs.cache
+C:\Users\shane\source\repos\Randum Number Guesser 2\Randum Number Guesser 2\obj\Debug\net6.0\Randum Number Guesser 2.dll
+C:\Users\shane\source\repos\Randum Number Guesser 2\Randum Number Guesser 2\obj\Debug\net6.0\refint\Randum Number Guesser 2.dll
+C:\Users\shane\source\repos\Randum Number Guesser 2\Randum Number Guesser 2\obj\Debug\net6.0\Randum Number Guesser 2.pdb
+C:\Users\shane\source\repos\Randum Number Guesser 2\Randum Number Guesser 2\obj\Debug\net6.0\Randum Number Guesser 2.genruntimeconfig.cache
+C:\Users\shane\source\repos\Randum Number Guesser 2\Randum Number Guesser 2\obj\Debug\net6.0\ref\Randum Number Guesser 2.dll
